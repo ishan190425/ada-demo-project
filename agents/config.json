@@ -1,0 +1,7 @@
+{
+  "agentsDir": "agents",
+  "templatesDir": "templates/",
+  "defaultBranch": "main",
+  "maxHistory": 10,
+  "compressionThreshold": 200
+}
