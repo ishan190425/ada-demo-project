@@ -34,8 +34,8 @@
 
 | ID | Decision | Rationale | Date | Author |
 |----|----------|-----------|------|--------|
-| INIT-001 | medium team configuration | Matches project size and current needs | 2026-02-06 | ADA Init |
-| INIT-002 | balanced focus area | Aligns with project priorities | 2026-02-06 | ADA Init |
+| INIT-001 | medium team configuration | Matches project size and current needs | 2026-02-15 | ADA Init |
+| INIT-002 | balanced focus area | Aligns with project priorities | 2026-02-15 | ADA Init |
 
 ---
 

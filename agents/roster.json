@@ -1,11 +1,11 @@
 {
-  "company": "Demo Corp",
+  "company": "My Company",
   "product": "ada-demo-project",
-  "tagline": "Demo project for ADA",
+  "tagline": "[YOUR_TAGLINE]",
   "roles": [
     {
       "id": "ceo",
-      "name": "The Founder",
+      "name": "[CEO_AGENT_NAME]",
       "title": "CEO",
       "emoji": "👔",
       "focus": [
@@ -27,7 +27,7 @@
     },
     {
       "id": "research",
-      "name": "The Scout",
+      "name": "[RESEARCH_AGENT_NAME]",
       "title": "Head of Research",
       "emoji": "🔬",
       "focus": [
@@ -46,7 +46,7 @@
     },
     {
       "id": "product",
-      "name": "The PM",
+      "name": "[PRODUCT_AGENT_NAME]",
       "title": "Product Lead",
       "emoji": "📦",
       "focus": [
@@ -66,7 +66,7 @@
     },
     {
       "id": "engineering",
-      "name": "The Builder",
+      "name": "[ENGINEERING_AGENT_NAME]",
       "title": "Lead Engineer",
       "emoji": "⚙️",
       "focus": [
@@ -86,7 +86,7 @@
     },
     {
       "id": "ops",
-      "name": "The Guardian",
+      "name": "[OPS_AGENT_NAME]",
       "title": "DevOps & Quality Lead",
       "emoji": "🛡️",
       "focus": [
